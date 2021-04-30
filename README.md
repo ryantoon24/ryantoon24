@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ryantoon24
-- I'm a High Schooler in Kansas
-- I want to go to college to study game programming.
+<h1> Hi! I'm Ryan Toon </h1>
 
+- I'm a High Schooler at Blue Valley Northwest in Overland Park, Kansas and a member of the [Blue Valley CAPS](https://bvcaps.yourcapsnetwork.org/) program.
+- I want to go to college to learn game programming and game development.
 
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning C#, Unity, JavaScript
